@@ -1,0 +1,67 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "car1",
+      "type": "hatch",
+      "year": 2001,
+      "price": 10000,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "car2",
+      "type": "hatch",
+      "year": 2002,
+      "price": 20000,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "car3",
+      "type": "hatch",
+      "year": 2003,
+      "price": 30000,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "car4",
+      "type": "hatch",
+      "year": 2004,
+      "price": 40000,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "car5",
+      "type": "suv",
+      "year": 2005,
+      "price": 50000,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "name": "car6",
+      "type": "suv",
+      "year": 2006,
+      "price": 60000,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "name": "car7",
+      "type": "suv",
+      "year": 2007,
+      "price": 70000,
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "name": "car1",
+      "price": 10000
+    }
+  ]
+}
